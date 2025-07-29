@@ -116,11 +116,3 @@ This app is only designed for desktop/laptop and will be tested on Chrome browse
 Bootstrap was used to create the UI design for the demo app. But, applicants are encouraged to use any other CSS library/framework that they are comfortable with.
 
 
-## General Tips
-
- - Feel free to use Google, StackOverflow or any other resource
- - Examine the demo apps closely to determine all the features
- - Open the data API link in your browser and examine the response schema
- - For applicants attempting the Assignment 2, please read the documentation of [Ant Design](https://ant.design/docs/react/introduce) library carefully and thoroughly.
- - Try to match the UI design of the demos for each assignment as closely as possible.
- - Please feel free to get in touch with the govind@32health.care to clear any doubts related to the aforementioned instructions.
