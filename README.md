@@ -1,4 +1,4 @@
-# 32Health - ReactJS assignments
+
 
 * **Assignment 1 - Beginner**: For applicants who have just learned React and have minimal to no experience in developing application using React.
 
